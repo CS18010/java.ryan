@@ -31,6 +31,8 @@ long OnesComplement2Value(char *bits) {
 	return 0; /* unreachable code */
 }
 
+// This is a test
+
 long TwosComplement2Value(char *bits) {
     /* returns the value of the bits read as two's complement */
     
